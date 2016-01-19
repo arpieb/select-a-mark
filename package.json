@@ -1,0 +1,19 @@
+{
+  "title": "Select-A-Mark",
+  "name": "select-a-mark",
+  "version": "0.0.1",
+  "description": "Multi-bookmarking utility for links within selected text",
+  "main": "./lib/main.js",
+  "author": "arpieb",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "permissions": {
+    "private-browsing": true
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
